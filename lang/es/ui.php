@@ -56,6 +56,8 @@ return [
     'confirmpassword'=>'Confirma tu password',
     'announc'=>'Anuncio',
     'announcementrevisor'=>'Aquí está el anuncio que se revisará.',
-    'announcementrevisor2'=>'No hay anuncios para revisar'
+    'announcementrevisor2'=>'No hay anuncios para revisar',
+    'totalannouncement'=>'Aquí están nuestros anuncios'
+   
 
 ];

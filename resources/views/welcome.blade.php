@@ -1,6 +1,6 @@
 {{-- <x-layout>
     <h1 class="bg-info">Presto.it</h1>
-    <p>Ecco i nostri annunci</p>
+    <p>{{ __('ui.allAnnouncements') }}</p>
     <div class="container">
         <div class="div row">
             @foreach ($announcements as $announcement)
